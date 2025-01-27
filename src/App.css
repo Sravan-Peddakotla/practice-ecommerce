@@ -1,6 +1,35 @@
 .App {
   text-align: center;
 }
+.text {
+  text-align: center;
+}
+.dark {
+  background-color: #161a1b;
+  color: white
+}
+.small {
+  background-color: #61dafb;
+  width: 30px;
+  height: 30px;
+}
+.md {
+  background-color: #161a1b;
+  width: 40px;
+  height: 40px;
+}
+.lg {
+  background-color: #614c92;
+  width: 50px;
+  height: 50px;
+}
+.bg {
+  background-color: gray;
+}
+.div {
+  background-color: aquamarine;
+  margin : 20px;
+}
 
 .App-logo {
   height: 40vmin;
